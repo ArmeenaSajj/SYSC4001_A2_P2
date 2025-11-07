@@ -1,7 +1,6 @@
 # SYSC4001_A2_P2
 Concurrent Processes in Unix
-SYSC4001 – Assignment 2 (Part II)
-Students:
+SYSC4001 – Assignment 2 (Part 2)
 - Armeena Sajjad (101295773)
 - Ajay Uppal (101308579)
 
