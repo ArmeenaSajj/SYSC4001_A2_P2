@@ -1,3 +1,9 @@
+/**
+ *
+ * @author Armeena Sajjad
+ * @author Ajay Uppal
+ *
+ */
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -18,3 +24,4 @@ int main(void){
         printf("[P1 %d] child finished (status=%d). Exiting P1.\n",getpid(),status);
     }
 }
+
