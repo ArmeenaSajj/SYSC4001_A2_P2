@@ -4,7 +4,6 @@
  * @author Ajay Uppal
  *
  */
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -35,3 +34,4 @@ int main(void){
     shmdt(sh);
     return 0;
 }
+
