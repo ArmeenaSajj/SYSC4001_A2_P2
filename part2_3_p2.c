@@ -1,3 +1,9 @@
+/**
+ *
+ * @author Armeena Sajjad
+ * @author Ajay Uppal
+ *
+ */
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -14,3 +20,4 @@ int main(void){
     printf("[P2 %d] reached %ld (< -500). Exiting.\n",getpid(),counter);
     return 0;
 }
+
