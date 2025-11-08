@@ -4,7 +4,6 @@
  * @author Ajay Uppal
  *
  */
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -44,3 +43,4 @@ int main(void){
     shmctl(shmid,IPC_RMID,NULL);
     return 0;
 }
+
