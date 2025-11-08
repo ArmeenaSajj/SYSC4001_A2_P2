@@ -1,3 +1,9 @@
+/**
+ *
+ * @author Armeena Sajjad
+ * @author Ajay Uppal
+ *
+ */
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -46,3 +52,4 @@ int main(void){
     semctl(semid,0,IPC_RMID);
     return 0;
 }
+
