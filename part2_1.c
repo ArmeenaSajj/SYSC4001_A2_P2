@@ -4,7 +4,6 @@
  * @author Ajay Uppal
  *
  */
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -22,3 +21,4 @@ int main(void){
         while(1){ printf("[P1 %d] %ld\n",getpid(),c++); sleep(1); }
     }
 }
+
